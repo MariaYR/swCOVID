@@ -18,11 +18,11 @@ library(geometry)
 library(igraph)
 library(rtweet)
 
-## store api keys (these are fake example values; replace with your own keys)
-api_key <- "zmUkEB27bLv5NytcPVsfc0Wa1"
-api_secret_key <- "riv4j7lwHIVIs8mhH9pqQe4APp8ncV8YvNevaxh26iiVFwuwbz"
-access_token <- "235262823-O6sLg6iMkAH7whP5Oj6IHM8K9WuWzY3eqw7swEjb"
-access_token_secret <- "WFlkUA7MlkmgrchIrvuUYj3KDPSNcIqwZbM3gTcFkYS8H"
+## store api keys 
+api_key <- ""
+api_secret_key <- ""
+access_token <- " "
+access_token_secret <- ""
 
 ## authenticate via web browser
 my_token <- create_token(
